@@ -31,7 +31,7 @@ const ProductsPage = () => {
     setProducts(products.filter(p => p._id !== id));
   }
 
-  if (!products || !products.length) return <h1>loading...</h1>
+  if (!products || !products.length) return <h1>loading..</h1>
 
   return (
     <>
