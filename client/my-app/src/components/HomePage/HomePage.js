@@ -15,7 +15,6 @@ const HomePage = () => {
         justifyContent: "center",
         alignItems: "center",
         mb: 6,
-        // marginTop:"20px"
       }}
     >
       {/* תמונה */}
@@ -49,7 +48,7 @@ const HomePage = () => {
             fontWeight: 600
           }}
         >
-          A grateful life
+          A grateful life????
         </Typography>
         <Typography
           variant="h1"
